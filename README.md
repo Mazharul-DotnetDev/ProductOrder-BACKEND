@@ -67,7 +67,7 @@ The Product Management System allows users to manage products, variants, and ord
 - **Infrastructure**: Contains DbContext, interface implementations, and services
 - **API**: Contains controllers and other relevant configurations
 
-## Backend Setup
+## Project Setup
 
 ### Prerequisites
 - Ensure Redis is installed. Download and install it from [this link](https://github.com/tporadowski/redis/releases/download/v5.0.14.1/Redis-x64-5.0.14.1.msi).
@@ -84,7 +84,7 @@ The Product Management System allows users to manage products, variants, and ord
 - Ensure to select 'API' in the run button options (API, IIS Express, Container, WSL).
 - Run the project.
 
-## Frontend Setup
+## Frontend Link
 
 ### Navigate to the Angular Project Directory
 - Clone the frontend project from [this link](https://github.com/Mazharul-DotnetDev/ProductOrder_CodersLab_FRONTEND).
