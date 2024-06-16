@@ -70,7 +70,7 @@ The Product Management System allows users to manage products, variants, and ord
 ## Project Setup
 
 ### Prerequisites
-- Ensure Redis is installed. Download and install it from [this link](https://github.com/tporadowski/redis/releases/download/v5.0.14.1/Redis-x64-5.0.14.1.msi).
+- Ensure Redis is installed. Download and install it from [this link](https://github.com/tporadowski/redis/releases/download/v5.0.14.1/Redis-x64-5.0.14.1.msi) from [this website](https://github.com/tporadowski/redis/releases/tag/v5.0.14.1)).
 
 ### Build the Solution
 - Open the project in Visual Studio 2022 and build the solution.
